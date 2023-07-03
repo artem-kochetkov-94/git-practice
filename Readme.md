@@ -23,4 +23,8 @@ mkdir my_project
 cd my_project
 git init
 ```
+
+```mermaid
+%% описание схемы
+```
 Это лишь некоторые функции markdown.
